@@ -26,10 +26,8 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 ## Screenshot
 ![Kondisi Awal] <img width="1080" height="2340" alt="tampilan awal" src="https://github.com/user-attachments/assets/1af62414-277b-46ce-ad63-8fbf6808ab30" />
 )
-![Loading](<img width="1080" height="2340" alt="surabaya loading" src="https://github.com/user-attachments/assets/37cee62d-21cd-4fcd-aa67-5edbb5863109" />
-)
-![Hasil](<img width="738" height="1600" alt="hasil jakarta" src="https://github.com/user-attachments/assets/5c8d1b8f-1b92-4e9a-a4c9-2d0d42f6ad70" />
-)
+![Loading] (<img width="1080" height="2340" alt="surabaya loading" src="https://github.com/user-attachments/assets/37cee62d-21cd-4fcd-aa67-5edbb5863109" />)
+![Hasil] (<img width="738" height="1600" alt="hasil jakarta" src="https://github.com/user-attachments/assets/5c8d1b8f-1b92-4e9a-a4c9-2d0d42f6ad70" />)
 EROR (<img width="1080" height="2340" alt="eror" src="https://github.com/user-attachments/assets/24645452-16ce-4f65-ab4a-ddc17ddcc0c0" />
 )
 ## Author
